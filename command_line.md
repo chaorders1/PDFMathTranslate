@@ -1,0 +1,2 @@
+pdf2zh '/Users/yuanlu/Desktop/the-vory-russias-super-mafia-9780300187625_compress copy (dragged).pdf' -s openai:gpt-4o-mini
+pdf2zh '/Users/yuanlu/Desktop/the-vory-russias-super-mafia-9780300187625_compress copy (dragged).pdf'
